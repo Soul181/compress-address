@@ -1,0 +1,4 @@
+Need to do:
+1. Add an exceptions and checking it
+2. Add logging and checking it
+3. Add conditions to DB, to delete a entry after 15 days and checking it
