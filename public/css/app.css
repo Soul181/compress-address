@@ -1,0 +1,15 @@
+html {
+	height: 100%;
+}
+			
+body {
+	background: linear-gradient(#06141B, #253745);
+}
+
+.text-color {
+	color: white;
+}
+
+h2 {
+	margin-top: 50px;
+}
